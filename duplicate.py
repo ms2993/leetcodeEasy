@@ -1,3 +1,4 @@
+#Question-1
 nums= [4,1,2,1,2]
 def duplicate(nums):
     temp = []
